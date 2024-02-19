@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chamaa App</string>
+
+    <string name="home">Home</string>
+    <string name="wallet">Wallet</string>
+    <string name="members">Members</string>
+    <string name="profile">Profile</string>
+
+    <string name="clubs">Clubs</string>
+    <string name="women_club">Women\'s \n Club</string>
+    <string name="all_levels">All Levels</string>
+    <string name="events">2 events</string>
+</resources>
